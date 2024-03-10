@@ -16,7 +16,7 @@ The project is a gaming platform where players can get rewarded with ERC-20 toke
 Follow these steps to get the project up and running on your local machine:
 
 - Ensure Node.js and npm are installed on your machine.
-- Clone the repository using the command: git clone {repository URL}
+- Clone the repository using the command: git clone https://github.com/intelliDean/DegenGame
 - Change directory into your project file - cd DegenGame
 - Install all dependencies with - npm install
 - Compile the contract using Hardhat - npx hardhat compile
