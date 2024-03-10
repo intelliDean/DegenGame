@@ -21,7 +21,7 @@ Follow these steps to get the project up and running on your local machine:
 - Install all dependencies with - npm install
 - Compile the contract using Hardhat - npx hardhat compile
 - Run deployment script - npx hardhat run scripts/deploy.ts
-- Interact with the deployed contract through transactions like distributeRewardToPlayers, playerP2PTransfer, and playerBuysProp.
+- Interact with the deployed contract through transactions like distributeRewardToPlayers, playerP2PTransfer, and playerBuysProp using the contract address: 0x7A8e2791D416c559Cc7C6b95fb54332bbcc85871.
 
 - [Click here to interact with the contract on Snowtrace](https://testnet.snowtrace.io/address/0x7A8e2791D416c559Cc7C6b95fb54332bbcc85871)
 
